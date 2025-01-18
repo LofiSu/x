@@ -57,6 +57,10 @@ yarn add @ant-design/x
 pnpm add @ant-design/x
 ```
 
+```bash
+bun add @ant-design/x
+```
+
 ### 🖥️ Import in Browser
 
 Add `script` and `link` tags in your browser and use the global variable `antd`.
